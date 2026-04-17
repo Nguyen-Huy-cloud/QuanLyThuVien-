@@ -80,7 +80,7 @@ Bạn cần tải các file `.jar` sau và thêm vào thư mục `lib` hoặc `R
 ### Bước 1: Clone dự án
 
 ```bash
-git clone https://github.com/duynguyentech/quanlythuvien.git
+git clone https://github.com/Nguyen-Huy-cloud/QuanLyThuVien-
 
 ```
 
