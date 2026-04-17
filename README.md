@@ -135,10 +135,4 @@ Dữ liệu mẫu có sẵn trong file SQL:
 
 ---
 
-## 🤝 Đóng Góp
 
-Mọi đóng góp, báo lỗi hoặc yêu cầu tính năng mới đều được hoan nghênh. Vui lòng tạo [Issue](https://www.google.com/search?q=https://github.com/duynguyentech/quanlythuvien/issues) hoặc gửi [Pull Request](https://www.google.com/search?q=https://github.com/duynguyentech/quanlythuvien/pulls).
-
----
-
-**Developed by Hai Chúng Toi**
